@@ -9,3 +9,7 @@ Contents are as follows:
 2. Annual Averaging and Fit Trend Line: Performs the same file loading and regional averaging steps as tutorial 1, then performs an annual average on the time series and fits a trend line (line of best fit) to the data.
 
 3. Weight Grid Cells + Plot Global Average: Provides instructions on computing weights based on the area of grid cells in a given model, so that areas with more points are not "overcounted". Shows the impact of area weighting on estimates of global-mean temperature.
+
+4. Anomalies: Demonstrates the process of calculating anomalies from a time series using two commonly employed methods:
+   - removal of a long-term average over a baseline period
+   - removal of the _seasonal climatology_ or average as a function of calendar month
